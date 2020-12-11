@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\01.LinqTuition\22.TreeTraversing\bin\Debug\netcoreapp3.1\22.TreeTraversing.exe
+C:\Users\Bla\source\repos\01.LinqTuition\22.TreeTraversing\bin\Debug\netcoreapp3.1\22.TreeTraversing.deps.json
+C:\Users\Bla\source\repos\01.LinqTuition\22.TreeTraversing\bin\Debug\netcoreapp3.1\22.TreeTraversing.runtimeconfig.json
+C:\Users\Bla\source\repos\01.LinqTuition\22.TreeTraversing\bin\Debug\netcoreapp3.1\22.TreeTraversing.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.LinqTuition\22.TreeTraversing\bin\Debug\netcoreapp3.1\22.TreeTraversing.dll
+C:\Users\Bla\source\repos\01.LinqTuition\22.TreeTraversing\bin\Debug\netcoreapp3.1\22.TreeTraversing.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\22.TreeTraversing\obj\Debug\netcoreapp3.1\22.TreeTraversing.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\01.LinqTuition\22.TreeTraversing\obj\Debug\netcoreapp3.1\22.TreeTraversing.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\22.TreeTraversing\obj\Debug\netcoreapp3.1\22.TreeTraversing.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.LinqTuition\22.TreeTraversing\obj\Debug\netcoreapp3.1\22.TreeTraversing.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\22.TreeTraversing\obj\Debug\netcoreapp3.1\22.TreeTraversing.dll
+C:\Users\Bla\source\repos\01.LinqTuition\22.TreeTraversing\obj\Debug\netcoreapp3.1\22.TreeTraversing.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\22.TreeTraversing\obj\Debug\netcoreapp3.1\22.TreeTraversing.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gxNq7GTZG1RmyILmCA3JWqihTWbSY8F9euGe/hiPYQEH9RVMFXlnwxvFKnG5xYRLnPriH3OfBKQgHAWYfb6mfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bla\\source\\repos\\01.LinqTuition\\22.TreeTraversing\\22.TreeTraversing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Bla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
